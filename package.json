@@ -1,0 +1,15 @@
+{
+  "name": "sockets",
+  "version": "1.0.0",
+  "description": "curso de sockets sin ninguna libreria",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Cesar Andres Pereira Bernal",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
